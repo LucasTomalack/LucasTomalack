@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lucas Tomalack</h1>
-<h3 align="center">A student of Western Paraná State University</h3>
+<h3 align="center">A student of Western Paraná State University (UNIOESTE)</h3>
 
 - 🔭 I’m currently working on [JAM_OsColono](http://jams.gamejolt.io/abgamejam4)
 
