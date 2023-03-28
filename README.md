@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **personal projects**
 
-- 🌱 I’m currently learning **Java, Javascrip, Flutter (dart)...**
+- 🌱 I’m currently learning **Java to be a future developer, Python for data analytics and image processing**
 
 - 📫 How to reach me **lucastomalack@gmail.com**
 
@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://twitter.com/lucastomalack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lucastomalack" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://linkedin.com/in/lucas-david-tomalack-de-souza-099a42199" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/lucas-david-tomalack-de-souza-099a42199" height="30" width="40" /></a>
-<a href="https://instagram.com/https://instagram.com/lucastomalack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/lucastomalack" height="30" width="40" /></a>
+<a href="https://instagram.com/lucastomalack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/lucastomalack" height="30" width="40" /></a>
 <a href="https://discord.gg/Tomalack#8628" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Tomalack#8628" height="30" width="40" /></a>
 </p>
 
