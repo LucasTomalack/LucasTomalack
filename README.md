@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **personal projects**
 
-- 🌱 I’m currently learning **Java to be a future developer, Python for data analytics and image processing**
+- 🌱 I’m currently learning **Java, SpringBoot and JSF to be a future developer, Python for data analytics and image processing**
 
 - 📫 How to reach me **lucastomalack@gmail.com**
 
