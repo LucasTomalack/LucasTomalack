@@ -3,6 +3,6 @@
 
 - 🔭 I’m currently working on a software to **VuKode** and others **personal projects**
 
-- 🌱 I’m currently coding with **Java(SpringBoot and JSF), C, C++, NodeJs, Nextjs, React, Python**
+- 🌱 I’m currently coding with **Java(SpringBoot and JSF), C, C++, NodeJs, React, Python**
 
 - 📫 How to reach me **lucastomalack@gmail.com**
